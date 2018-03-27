@@ -1,5 +1,4 @@
 # Git e Github para iniciantes
 
-primeiro commit
+integrando com github
 
-mensagem
